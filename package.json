@@ -1,0 +1,24 @@
+{
+  "name": "template-directory-projector",
+  "version": "1.0.0",
+  "description": "Template directory projector based on structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ktfth/template-directory-projector.git"
+  },
+  "keywords": [
+    "project",
+    "directory",
+    "templates"
+  ],
+  "author": "Kaique da Silva <kaeyosthaeron@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktfth/template-directory-projector/issues"
+  },
+  "homepage": "https://github.com/ktfth/template-directory-projector#readme"
+}
